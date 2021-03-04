@@ -1,6 +1,6 @@
 # Data Engineer Masterclass
 
-This github repository describes the necessary steps to download the imdb dataset and transfer it to the previously prepared tables in mysql. Please create the tables using the commands in create_tables.sql.  
+This github repository describes the necessary steps to download the imdb dataset and transfer it to the previously prepared tables in mysql. Please create the tables using the commands in `create_tables.sql`.  
 
 ### Clone Steps
 
