@@ -33,5 +33,7 @@
 
 `HOST=<user-ip> USER=<mysql-username> PASSWORD=<mysql-password> DATABASE=<database-name> python imdb_to_mysql.py`
 
-* `HOST` 
-* `--tmpfs /root/tmp` mounts a ram filesystem for speed.
+* `HOST` IP address where mysql is installed 
+* `USER` Mysql user name
+* `PASSWORD` Mysql password
+* `DATABASE` Database name which you want to import data
