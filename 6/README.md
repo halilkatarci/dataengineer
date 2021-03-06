@@ -1,4 +1,10 @@
 # Answers
+## Usage
+If you want to see the answers in your own sql table, you must first select the database. 
+
+`USE <your_database_name>;`
+
+You can then run the commands below. 
 
 ## a
 `select seasonNumber, episodeNumber, averageRating from title_episode, title_ratings
