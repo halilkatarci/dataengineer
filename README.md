@@ -12,7 +12,7 @@ This github repository describes the necessary steps to download the imdb datase
 
 ### Dependency Steps
 
-3. First and biggest dependency python 3.7 or bigger.
+3. First and biggest dependency python 3.7 or higher.
 
 4. After Python setup is complete, run requirements.txt.
 
