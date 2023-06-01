@@ -27,7 +27,7 @@ This github repository describes the necessary steps to download the imdb datase
 
 `wget -r -nH -R "index.html*" --cut-dirs=1 https://datasets.imdbws.com/`
 
-7. Go back to the dataengineer folder.
+7. Go back to the data engineer folder.
 
 `cd ..`
 
